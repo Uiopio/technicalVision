@@ -2,8 +2,6 @@
 //
 #pragma once
 
-//#define pi 3.14
-//#define exp 2.72
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include "opencv2\core.hpp"
@@ -117,42 +115,6 @@ int main(void)
     }
 
     return 0;
-
-
-    //vector <float> FmRe = { 0 };//(1, vector<complex<float> >(3));
-
-    //vector <float> FmIm = { 0 };
-
-    //int16_t m, n, M;
-    //Fm(0)=a+bi
-    //FmIm(0)=b
-    //FmRe(0)=a;
-    
-    //f(n)=1/M summa(Fm*exp^(2 * pi * (m * n) / M) )
-
-    //for (m = 0; m < M; m++)
-    //{
-    //    for (n = 0; n < M; n++)
-    //    {
-    //        FmRe(m) = Fm(m) + f(n) * cos(2 * pi * (m * n) / M);
-
-    //        FmIm(m) = Fm(m) - f(n) * sin(2 * pi * (m * n) / M);
-    //    }
-    //}
-
-    //Mat imageChess = imread("C:/Bezymyanny100.bmp", 1);
-    //imshow("Chess", imageChess);
-
-    //double scaleX = 1.1;
-    //double scaleY = 1.1;
-
-    //Mat imgLarge
-    //(int)(scaleX)
-
-    //    while (waitKey(1) != 27)
-    //    {
-    //        ;
-    //    }
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"

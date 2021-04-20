@@ -1,0 +1,12 @@
+﻿  arucoProcessing.cpp
+c:\users\glebo\onedrive\рабочий стол\учеба в поликеке\техническое зрение\5 lab\chessboard calibration\camera calib chessboard\camera calib chessboard\arucoprocessing.cpp(73): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+  Generating code
+  30 of 1069 functions ( 2.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    20 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  camera calib chessboard.vcxproj -> C:\Users\glebo\OneDrive\Рабочий стол\Учеба в Поликеке\Техническое зрение\5 lab\chessboard calibration\camera calib chessboard\x64\Release\camera calib chessboard.exe

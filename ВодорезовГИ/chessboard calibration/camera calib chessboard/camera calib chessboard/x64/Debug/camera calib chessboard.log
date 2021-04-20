@@ -1,0 +1,7 @@
+﻿  arucoProcessing.cpp
+c:\users\glebo\onedrive\рабочий стол\учеба в поликеке\техническое зрение\5 lab\chessboard calibration\camera calib chessboard\camera calib chessboard\arucoprocessing.cpp(72): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+  camera calib chessboard.vcxproj -> C:\Users\glebo\OneDrive\Рабочий стол\Учеба в Поликеке\Техническое зрение\5 lab\chessboard calibration\camera calib chessboard\x64\Debug\camera calib chessboard.exe
